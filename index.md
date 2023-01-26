@@ -1,3 +1,4 @@
+![Cover](https://raw.githubusercontent.com/khanhnd185/my-blog/my-pages/_posts/images/cover.jpg)
 ---
 title: Homepage
 ---
