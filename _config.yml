@@ -4,4 +4,6 @@ author: Dang-Khanh Nguyen
 email: "khanhnd185@gmail.com"
 description: It takes a hundred times to learn, a thousand times to understand
 github_username:  khanhnd185
-linkedin_username: khanh-nguyen-abcdef13
+linkedin_username: khanhnd185
+header_pages:
+  - about.md
