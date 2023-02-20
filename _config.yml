@@ -1,10 +1,7 @@
 theme: minima
 title: 	Welcome to My Blog
-author:
-  name: Dang-Khanh Nguyen
-  email: "khanhnd185@gmail.com"
+author: Dang-Khanh Nguyen
+email: "khanhnd185@gmail.com"
 description: It takes a hundred times to learn, a thousand times to understand
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/khanhnd185" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/khanh-nguyen-abcdef13/" }
+github_username:  khanhnd185
+linkedin_username: khanh-nguyen-abcdef13
