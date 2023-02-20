@@ -1,23 +1,21 @@
 ---
-title: Dang-Khanh Nguyen
+title: About me
 ---
 
-About me
+Dang-Khanh Nguyen
 ============
 
-Email: [khanhnd185@gmail.com](mailto:khanhnd185@gmail.com)
-Check my blog at [My Blog](https://khanhnd185.github.io/my-blog/)
-Check my coding activities at [Github](https://github.com/khanhnd185)
+I am a developer and a learner. Check my coding activities at [Github](https://github.com/khanhnd185)
 
 Education
 ---------
 
 2022-Present
-:   **Master Student, Department of AI Convergence; Chonnam National University (Gwangju, South Korea)**
+:   **Master Student, Department of AI Convergence; [Chonnam National University](https://international.jnu.ac.kr/) (Gwangju, South Korea)**
     * Expected to graduate in Spring 2024.
 
 2014-2018
-:   **BE, Electrical and Electronic Engineering, Ho Chi Minh University of Technology (HCMC, Vietnam)**
+:   **BE, Electrical and Electronic Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en) (HCMC, Vietnam)**
     * Honor Program of Telecommunication Engineering.
 
 Experience
