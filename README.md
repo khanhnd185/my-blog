@@ -1,1 +1,1 @@
-My blog is [here](https://khanhnd185.github.io/my-blog/)
+My blog is [here](https://khanhnd185.github.io/)
