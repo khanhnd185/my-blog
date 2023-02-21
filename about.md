@@ -5,7 +5,7 @@ title: About me
 Dang-Khanh Nguyen
 ============
 
-I am a developer and a learner. Check my coding activities at [Github](https://github.com/khanhnd185)
+I am a developer and a learner. Check my coding activities at [Github](https://github.com/khanhnd185).
 
 Education
 ---------
