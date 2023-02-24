@@ -62,7 +62,7 @@ Publications
     * We use pre-trained language model to analyze the conversation context and the speakers' memory to handle the ERC task.
     * Source code [here](https://github.com/khanhnd185/KERC22).
 
-[Multimodal Transformer for Automatic Depression Estimation System]()
+[Multimodal Transformer for Automatic Depression Estimation System](https://iwfcv2023.github.io/assets/Poster/P2-7%20Multimodal%20Transformer%20for%20Automatic%20Depression%20Estimation%20System_Khanh%20Nguyen.pdf)
 :   In Proceeding of [The 29th International Workshop on Frontiers of Computer Vision](https://iwfcv2023.github.io/)
     * We reviewed the transformer-based fusion methods of [Xu](https://arxiv.org/abs/2206.06488) for Depression recognition.
     * We introduce a new fusion transformer and get good performance on [D-Vlog Benchmark](https://ojs.aaai.org/index.php/AAAI/article/view/21483).
