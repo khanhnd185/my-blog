@@ -56,7 +56,7 @@ Publications
     * The [competion](https://www.competitions.hume.ai/avb2022) is organized by [HumeAI](https://hume.ai/) to explore a under-studied indicator of emotion, the non-verbal sound of human.
     * Source code [here](https://github.com/khanhnd185/AVB2022).
 
-[Analyzing Context and Speaker Memory using Pretrained Language Model for Emotion Recognition in Korean Conversation task](https://drive.google.com/file/d/1c7N5KcWahmLxxS42UXhjY6CIjdcjh26o/view)
+[Analyzing Context and Speaker Memory using Pretrained Language Model for Emotion Recognition in Korean Conversation task](http://netkers5.cafe24.com/bigdas2022/assets/program/BIGDAS2022%20Proceeding.pdf)
 :   In Proceeding of [10th International Conference on Big Data Applications and Services](http://kbigdata.or.kr/bigdas2022/)
     * We achieve 4th Prize in the [4th Emotion Recognition in Korean Conversation Competition](https://sites.google.com/view/kerc2022/).
     * We use pre-trained language model to analyze the conversation context and the speakers' memory to handle the ERC task.
