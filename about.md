@@ -18,7 +18,7 @@ My research record can be found at <a
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
-    </a> or <i class="fa fa-graduation-cap" href="https://scholar.google.com/citations?user=5AdBep8AAAAJ"></i>
+    </a> or <a href="https://scholar.google.com/citations?user=5AdBep8AAAAJ"><i class="fa fa-graduation-cap"></i></a>.
 
 Education
 ---------
