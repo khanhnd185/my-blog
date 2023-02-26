@@ -27,12 +27,14 @@ Pytorch Implementation
 
 [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/): The Transformer has been on a lot of people’s minds over the last year five years. This post presents an annotated version of [the paper](https://arxiv.org/abs/1706.03762) in the form of a line-by-line implementation. Code is available [here](https://github.com/harvardnlp/annotated-transformer/).
 
-Git
+Git/Github
 --------------------
 
 [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html): This visualization of git is really easy to understand.
 
 [Git Branching -Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing): Working with branch in Git is a bit confusing. Here is an illustration of Git Rebase for those who forget how this command works (it's me).
+
+[Markdown Cheatsheet](https://aksakalli.github.io/jekyll-doc-theme/docs/cheatsheet/): A useful revision of Markdown syntax. I use it to create pages in this website.
 
 Books and courses
 --------------------
