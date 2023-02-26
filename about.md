@@ -5,7 +5,18 @@ title: About
 Dang-Khanh Nguyen
 ============
 
-I am a developer and a learner. Check my coding activities at [Github](https://github.com/khanhnd185).
+I am a developer and a learner. Check my coding activities at <a
+    id="cy-effective-github-url"
+    class="underline"
+     href="https://github.com/khanhnd185"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+    </a>.
 <br>
 My research record can be found at <a
     id="cy-effective-orcid-url"
