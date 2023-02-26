@@ -6,6 +6,19 @@ Dang-Khanh Nguyen
 ============
 
 I am a developer and a learner. Check my coding activities at [Github](https://github.com/khanhnd185).
+<br>
+My research record can be found at <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-7459-7095"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+    </a> or <i class="fa fa-graduation-cap" href="https://scholar.google.com/citations?user=5AdBep8AAAAJ"></i>
 
 Education
 ---------
@@ -44,7 +57,7 @@ Publications
 --------------------
 
 [Affective Behavior Analysis using Action Unit Relation Graph and Multi-task Cross Attention](https://arxiv.org/abs/2207.10293)
-:   In Proceeding of ECCV Workshop (2022)
+:   In Proceeding of [ECCV Workshop (2022)](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_10)
 
     * The paper introduces my solution in the [4th Workshop and Competition on Affective Behavior Analysis in-the-wild](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/). We achieve top 4 in the Multi-task Learning Challange.
     * We propose a 3-head EfficientNet to resolve 3 affective tasks: emotion recognition, valence-arousal estimation, and action unit detection.
