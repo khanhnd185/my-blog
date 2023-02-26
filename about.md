@@ -18,7 +18,18 @@ My research record can be found at <a
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
-    </a> or <a href="https://scholar.google.com/citations?user=5AdBep8AAAAJ"><i class="fa fa-graduation-cap"></i></a>.
+    </a> or <a
+    id="cy-effective-scholar-url"
+    class="underline"
+     href="https://scholar.google.com/citations?user=5AdBep8AAAAJ"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="Google Scholar icon"/>
+    </a>.
 
 Education
 ---------
