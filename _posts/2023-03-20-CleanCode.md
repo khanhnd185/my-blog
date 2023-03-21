@@ -1,6 +1,9 @@
 ---
 title: "(Tip) Clean code"
 date: 2023-03-20
+tags:
+- Tip
+- Coding
 ---
 
 # These tips may help your code cleaner
