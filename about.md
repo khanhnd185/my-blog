@@ -102,3 +102,10 @@ Publications
     * We reviewed the transformer-based fusion methods of [Xu](https://arxiv.org/abs/2206.06488) for Depression recognition.
     * We introduce a new fusion transformer and get good performance on [D-Vlog Benchmark](https://ojs.aaai.org/index.php/AAAI/article/view/21483).
     * Source code [here](https://github.com/khanhnd185/Transformer-fusion).
+
+[A Transformer-based Approach to Video Frame-level Prediction in Affective Behavior Analysis In-the-wild](https://arxiv.org/abs/2303.09293)
+:   In Proceeding of [11th International Conference on Big Data Applications and Services](http://www.kbigdata.or.kr/bigdas2023/index.html)
+
+    * The paper introduces my solution in the [CVPR 2023: 5th Workshop and Competition on Affective Behavior Analysis in-the-wild](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/). We achieved top 9 in the Multi-task Learning Challange.
+    * We used a pre-trained EfficientNet to extract facial spatial features and a Transformer to extract temporal features. The sequence of embeddings are then used to generate frame-wise emotional predictions for a video.
+    * Source code [here](https://github.com/khanhnd185/ABAW5).

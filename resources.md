@@ -43,3 +43,5 @@ Books and courses
 [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book): Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022). Chip is a writer, a lecturer at Stanford University, and a computer scientist.
 
 [Academic word list](http://www.uefap.com/vocab/select/awl.htm): Academic Word List Coxhead (2000) would be usefule if you are writing papers, documents, etc.
+
+[Bytepawn](https://bytepawn.com/): Tech blog of Marton Trencseni.
