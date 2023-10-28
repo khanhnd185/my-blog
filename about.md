@@ -50,7 +50,7 @@ Education
     * Expected to graduate in Spring 2024.
 
 2014-2018
-:   **BE, Electrical and Electronic Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en) (HCMC, Vietnam)**
+:   **Bachelor of Engineering, Electrical and Electronic Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en) (HCMC, Vietnam)**
     * Honor Program of Telecommunication Engineering.
 
 Experience
@@ -58,21 +58,26 @@ Experience
 
 **Researcher at [Smart Computing Lab](http://sclab.jnu.ac.kr/)**
 :   2022 - Present
-    * My research interest is emotion recognition, multimodal learning, and multimodal fusion.
+    * My research topic is video emotion recognition, multimodal learning, and multimodal fusion.
     * Investigate and implement machine learning, deep learning model using Pytorch framework.
+    * My publications and competitions that I joined are listed in the next section.
 
 **Software Engineer at [Viettel High Technology Company](https://viettelhightech.vn/)**
 :   2020 - 2021
     * Investigate [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) documents to implement network protocol. Develop L2/L3  Protocol for Network Device (Switch/Router) using C programming language.
-    * Use gdb to debug and git to control version of team's source code.
-    * Utilize multi-thread, ipc to improve response time of system.
-    * Setup network topology to evaluate the behavior of the protocol on prototype device.
+    * Some protocols that I have developed and tested: [OMCI](https://en.wikipedia.org/wiki/G.988), [SMNP](https://www.rfc-editor.org/rfc/rfc3413.html).
+    * Use GDB for debugging and git to control version of team's source code.
+    * Utilize Multi-thread, Inter-process communication to improve response time between devices.
+    * Simulate behavior of Intermediary network device for boundary-value analysis and stress test of Gateway device.
+    * Setup network topology to evaluate the behavior of the protocols on prototype device.
 
 **Software Engineer at [Renesas Design Vietnam](http://vietnam.renesas.com/)**
 :   2018 - 2019
-    * Develop Virtual IC modules (Switch/Router) using C++ programming language.
-    * Use Python to create test cases and test environment, guarantee code coverage.
-    * Work in Linux Environment.
+    * Develop IP modules for virtual MCU/SoC using C++ programming language and [SystemC](https://systemc.org/overview/systemc/).
+    * Some modules that I have developed and tested: Interrupt controller, Random Number Generator.
+    * Embed Python APIs in C++ module. Use Python to create test script and unit test environment.
+    * Guarantee code coverage >95% using GCOV. Track and resolve 100$ leaking memory issues with Valgrind.
+    * Work in Linux Environment, use Makefile to control building process.
 
 
 Publications
