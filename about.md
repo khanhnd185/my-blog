@@ -76,7 +76,7 @@ Experience
     * Develop IP modules for virtual MCU/SoC using C++ programming language and [SystemC](https://systemc.org/overview/systemc/).
     * Some modules that I have developed and tested: Interrupt controller, Random Number Generator.
     * Embed Python APIs in C++ module. Use Python to create test script and unit test environment.
-    * Guarantee code coverage >95% using GCOV. Track and resolve 100$ leaking memory issues with Valgrind.
+    * Guarantee code coverage >95% using GCOV. Track and resolve 100% leaking memory issues with Valgrind.
     * Work in Linux Environment, use Makefile to control building process.
 
 
