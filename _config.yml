@@ -6,6 +6,7 @@ description: It takes a hundred times to learn, a thousand times to understand
 github_username:  khanhnd185
 linkedin_username: khanhnd185
 header_pages:
+  - courses.md
   - books.md
   - resources.md
   - about.md
