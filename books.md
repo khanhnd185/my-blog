@@ -4,6 +4,7 @@ title: Books
 
 This page is where I share useful books (maybe) that I have read or have been recommended to read (but don't have a chance to read yet).
 
+Books I am reading
 --------------------
 
 [The Linux Programming Interface](https://github.com/khanhnd185/books/blob/master/the_linux_interface_programming.pdf): This is my top 1 favorite book. It helped me deeply understand C programming in Linux environment. C is a programming language that quite closes to the hardware where you have to handle resources such as memories, files, etc by yourself. In other programming languages (Java, etc.), garbage collection is automatically handled by a dedicated agent. This book covers many essential topics in Linux programming such as Files, Memories, Interprocess Communication, Sockets, etc.
@@ -18,10 +19,6 @@ This page is where I share useful books (maybe) that I have read or have been re
 
 ![cpp](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/cpp.jpg)
 
-[Adaptive Filter Theory](https://github.com/khanhnd185/books/blob/master/adaptive_filter_theory.pdf): This book is recommended by my boss in AI company. The book covers many topics in adaptive filter theory. Many of them are premitive ideas for AI/ML disciplines. If you wonder where the AI/ML methods come from, this book may give you a historical background of your concern.
-
-![filter](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/filter.jpg)
-
 [Machine Learning cơ bản](https://github.com/khanhnd185/books/blob/master/machine_learning_co_ban.pdf): This book is the reason why I start learning AI/ML. I used to be an embedded software engineer in Vietnam. This Vietnamese book gives me a friendly approach for the person starting learning AI/ML (like me) (obviously because it is in Vietnamese and I am). Shout out for Vu Huu Tiep, the author of this book that writes the book for free without any benefit but helping the beginner start learning AI/ML easier. AI/ML may be painful for those who starts from scratch. This book will help you (if you are a Vietnamese) by covering almost every basic topics of machine learning. By the way, "cơ bản" means "basic" in Vietnamese.
 
 ![basic](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/basic.jpg)
@@ -29,3 +26,18 @@ This page is where I share useful books (maybe) that I have read or have been re
 [Computer Networking - A Top Down Approach](https://github.com/khanhnd185/books/blob/master/computer_networking_top_down.pdf): It is so shame when I am a Telecommunication-major student but have zero knowledge in Computer Networking until I read this book. My boss in Viettel (Big telecommunication company in Vietnam) recommended this book. It helps me understand (somehow) how the computer network works. Even though I am not a expert in Computer Network, I can implement the network protocols and troubleshoot some easy network issues. 
 
 ![network](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/network.jpg)
+
+My to-read books
+--------------------
+
+[Adaptive Filter Theory](https://github.com/khanhnd185/books/blob/master/adaptive_filter_theory.pdf): This book is recommended by my boss in AI company. The book covers many topics in adaptive filter theory. Many of them are premitive ideas for AI/ML disciplines. If you wonder where the AI/ML methods come from, this book may give you a historical background of your concern.
+
+![filter](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/filter.jpg)
+
+[Introduction to Computing Systems - From bits & gates to C/C++ & beyond](https://github.com/khanhnd185/books/blob/master/introduction_to_computing_systems.pdf): This book is recommended in ECE447 Computer Architecture Lectures from Carnegie Mellon.
+
+![bits](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/bits.jpg)
+
+[Computer Organization and Design - The Hardware/Software Interface](https://github.com/khanhnd185/books/blob/master/computer_organization_design.pdf): This book and [its RISC-V version](https://github.com/khanhnd185/books/blob/master/computer_organization_design_riscv.pdf) are recommended in ECE447 Computer Architecture Lectures from Carnegie Mellon.
+
+![hwsw](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/hwsw.jpg)
