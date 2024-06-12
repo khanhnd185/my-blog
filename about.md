@@ -45,9 +45,9 @@ My research record can be found at <a
 Education
 ---------
 
-2022-Present
+2022-2023
 :   **Master Student, Department of AI Convergence; [Chonnam National University](https://international.jnu.ac.kr/) (Gwangju, South Korea)**
-    * Expected to graduate in Spring 2024.
+    * Graduatded in Feb 2024.
 
 2014-2018
 :   **Bachelor of Engineering, Electrical and Electronic Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en) (HCMC, Vietnam)**
@@ -56,8 +56,14 @@ Education
 Experience
 ----------
 
+**Senior Software Engineer at [Aim Futrure](https://aimfuture.ai/en/)**
+:   2024 - Present
+    * Design and implement SDK compiling well-known computer vision models (from various frameworks: Keras, Tensorflow, Torch) to hardware-specific runtime instructions.
+    * Simulate and verify hardware-specific executable file generated from pre-trained high-level models on dedicated simulator.
+    * Investigate lately released papers regarding computer vision models to deploy them on specific hardware platform.
+
 **Researcher at [Smart Computing Lab](http://sclab.jnu.ac.kr/)**
-:   2022 - Present
+:   2022 - 2023
     * My research topic is video emotion recognition, multimodal learning, and multimodal fusion.
     * Investigate and implement machine learning, deep learning model using Pytorch framework.
     * My publications and competitions that I joined are listed in the next section.
