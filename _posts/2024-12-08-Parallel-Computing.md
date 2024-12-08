@@ -31,7 +31,7 @@ We cannot leave it to the Moore's Law. Software must be written to be parallel t
 
 # Multicore Architecture
 
-A basic processor consists of 3 main components:
+:   A basic processor consists of 3 main components:
 
     * Fetch/Decode: determine what instruction to run next.
     * ALU (Execution Unit): performs the operation described by an instruction, which may modify values in the processor's registers or the computer's memory.
@@ -39,7 +39,7 @@ A basic processor consists of 3 main components:
 
 ![fig2](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/cs149/CPU-GPU_Arch.jpg)
 
-The figure below showed some possible paradigms in which a CPU can be designed.
+:   The figure below showed some possible paradigms in which a CPU can be designed.
 
     * Simple processor: executes one instruction per clock.
     * Superscalar core: figures out the dependency at instruction level and execute independent instructions in parallel.
