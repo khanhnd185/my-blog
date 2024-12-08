@@ -4,8 +4,10 @@ title: Courses
 
 This page is where I share useful courses (maybe) that I have taken or have been recommended to take (but don't have a chance to take yet).
 
-Course I have taken
+My favourites
 --------------------
+
+[Stanford CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/): provides a deep understanding of the fundamental principles and engineering trade-offs involved in designing modern parallel computing systems as well as to teach parallel programming techniques necessary to effectively utilize these machines.
 
 [CS50 - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/): Computer Science Courses from Harvard. It covers some basic concepts of artificial intelligence such as search problem (BFS, DFS, A*, etc.), knowledge, uncertainty, and neural networks.
 
@@ -15,7 +17,7 @@ Course I have taken
 
 [Coursera - Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction): Coursera, By Andrew Ng.
 
-Course I want to take
+You may also like
 --------------------
 
 [ECE447 - Introduction to Computer Architecture](https://course.ece.cmu.edu/~ece447/s15/doku.php): This course introduces the basic hardware structure of a modern programmable computer, including the basic laws underlying performance evaluation. We will learn, for example, how to design the control and data path hardware for a ARM-like processor, how to make machine instructions execute simultaneously through pipelining and simple superscalar execution, and how to design fast memory and storage systems. In addition, we will develop a cycle-accurate simulator of this processor in C, and we will use this simulator to explore processor design options.

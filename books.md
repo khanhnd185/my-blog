@@ -2,9 +2,9 @@
 title: Books
 ---
 
-This page is where I share useful books (maybe) that I have read or have been recommended to read (but don't have a chance to read yet).
+This page is where I share useful books that I have read or have been recommended.
 
-Books I am reading
+My favourites
 --------------------
 
 [The Linux Programming Interface](https://github.com/khanhnd185/books/blob/master/the_linux_interface_programming.pdf): This is my top 1 favorite book. It helped me deeply understand C programming in Linux environment. C is a programming language that quite closes to the hardware where you have to handle resources such as memories, files, etc by yourself. In other programming languages (Java, etc.), garbage collection is automatically handled by a dedicated agent. This book covers many essential topics in Linux programming such as Files, Memories, Interprocess Communication, Sockets, etc.
@@ -27,7 +27,7 @@ Books I am reading
 
 ![network](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/books/network.jpg)
 
-My to-read books
+You may also like
 --------------------
 
 [Adaptive Filter Theory](https://github.com/khanhnd185/books/blob/master/adaptive_filter_theory.pdf): This book is recommended by my boss in AI company. The book covers many topics in adaptive filter theory. Many of them are premitive ideas for AI/ML disciplines. If you wonder where the AI/ML methods come from, this book may give you a historical background of your concern.

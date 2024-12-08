@@ -5,7 +5,7 @@ title: About
 Dang-Khanh Nguyen
 ============
 
-I am a developer and a learner. Check my coding activities at <a
+I am a software engineer and a philomath. Check my coding activities at <a
     id="cy-effective-github-url"
     class="underline"
      href="https://github.com/khanhnd185"
@@ -59,8 +59,8 @@ Experience
 **Senior Software Engineer at [Aim Futrure](https://aimfuture.ai/en/)**
 :   2024 - Present
     * Design and implement SDK compiling well-known computer vision models (from various frameworks: Keras, Tensorflow, Torch) to hardware-specific runtime instructions.
-    * Simulate and verify hardware-specific executable file generated from pre-trained high-level models on dedicated simulator.
-    * Investigate lately released papers regarding computer vision models to deploy them on specific hardware platform.
+    * Hardware-oriented optimize DNN operations for efficient and effective computation on AI accelerator. Decompose these operations into smaller elements so that they can be executed in parallel in order to hide the memory latency and maximize the arithmetic intensity.
+    * Exploit the power of our AI accelerator to provide faster implementations for inferencing deep neural networks.
 
 **Researcher at [Smart Computing Lab](http://sclab.jnu.ac.kr/)**
 :   2022 - 2023
@@ -120,3 +120,10 @@ Publications
     * The paper introduces my solution in the [CVPR 2023: 5th Workshop and Competition on Affective Behavior Analysis in-the-wild](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/). We achieved top 9 in the Multi-task Learning Challange.
     * We used a pre-trained EfficientNet to extract facial spatial features and a Transformer to extract temporal features. The sequence of embeddings are then used to generate frame-wise emotional predictions for a video.
     * Source code [here](https://github.com/khanhnd185/ABAW5).
+
+[Multiple Facial Reaction Generation Using Gaussian Mixture of Models and Multimodal Bottleneck Transformer](https://ieeexplore.ieee.org/document/10581901)
+:   In Proceeding of [IEEE 18th International Conference on Automatic Face and Gesture Recognition (2024)](https://fg2024.ieee-biometrics.org/)
+
+    * The paper introduces my solution in the [The Second REACT Challenge@IEEE FG24](https://sites.google.com/cam.ac.uk/react2024/home). We achieve top 3 in the Facial Reaction Generation.
+    * Our proposed approach incorporates the Multimodal Bottleneck Token mechanism to capture interactions between acoustic and visual speaker features and utilizes the Variational Auto-encoder framework to generate latent representations of multiple listener reactions. Additionally, we employ Gaussian Mixture Models to enhance the generative capabilities of the Autoencoder.
+    * Source code [here](https://github.com/khanhnd185/MBTReact).
