@@ -49,6 +49,10 @@ Here is some examples of CPU/GPU architecture design:
 
 ![fig3](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/cs149/CPU-GPU_Arch_Example.jpg)
 
+At a high level, these paradigms can be applied for both CPUs and GPUs.
+As a software engineer, I don't see many differences between CPUs and GPUs or other hardware accelerators,
+except that the CPU is equipped with more "intelligent" components (e.g. control flow, branch instructions).
+
 ![fig4](https://raw.githubusercontent.com/khanhnd185/khanhnd185.github.io/my-pages/_posts/images/cs149/NVIDIA-V100.jpg)
 
 
